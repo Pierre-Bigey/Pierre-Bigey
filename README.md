@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there 👋, Welcome!
 
+My name is Pierre Bigey, I am from France where I'm studying engineering at IMT Atlantique.
+I learnt to program at a very early age, starting with **C** and continuing with **Java** and **Python**. I made my first games in **JS** with **HTML** and now I've mastered **Unity** and **C#**.
+
+- 🔭 I’m currently working at LS2N, where I develop virtual reality applications to assist neuropsychological diagnosis
+- 🌱 I’m currently learning cybersecurity with TryHackMe and taking part in CTFs.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pierre-b-42502b226/)
 <!--
 **Pierre-Bigey/Pierre-Bigey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
