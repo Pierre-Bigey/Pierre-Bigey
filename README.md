@@ -1,22 +1,44 @@
-### Hi there 👋, Welcome!
+# Hi there 👋, I'm Pierre Bigey!
 
-My name is Pierre Bigey, I am from France where I'm studying engineering at IMT Atlantique.
-I learnt to program at a very early age, starting with **C** and continuing with **Java** and **Python**. I made my first games in **JS** with **HTML** and now I've mastered **Unity** and **C#**.
+Welcome to my GitHub profile! I'm a passionate engineering student based in France, currently studying at IMT Atlantique. I've been exploring the world of programming since a young age, starting with **C** and expanding my skills to include **Java**, **Python**, and more. Here's a bit more about me:
 
-- 🔭 I’m currently working at LS2N, where I develop virtual reality applications to assist neuropsychological diagnosis
-- 🌱 I’m currently learning cybersecurity with TryHackMe and taking part in CTFs.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pierre-b-42502b226/)
-<!--
-**Pierre-Bigey/Pierre-Bigey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- 💻 I specialize in **Unity** and **C#**, with expertise in environment design, interaction design, UI design, network features, and Oculus app submission.
+- 🌐 I have a diverse skill set that includes languages such as **Python**, **Java**, **C**, and **C++**. I'm familiar with web development (HTML, JavaScript, PHP) and have a basic understanding of web security.
+- 🧮 As a math lover, I enjoy the logical challenges that programming presents and often find elegant solutions rooted in mathematical principles.
+- 🎮 I love creating immersive experiences! I've worked on VR applications, including a VR version of the popular game 'Paper Please' and developed **CoWalkVR**, enabling walk-and-talk interviews in a nature environment.
+- 🛠️ I enjoy crafting in various domains, from electronics and woodworking to mechanics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+
+- **Languages:** C#, Python, Java, JavaScript
+- **Development:** Unity, HTML
+- **Other Skills:** Team collaboration, project leadership, web development, VR development
+
+## 🌐 Projects
+
+1. **Paper Please VR**
+   - A virtual reality adaptation of the renowned game 'Paper Please.'
+
+2. **CoWalkVR**
+   - An innovative VR application allowing two individuals to walk together in a natural environment for walk-and-talk interviews.
+
+3. **Prometea Enhancement**
+   - Improved the Prometea project, a tool for measuring prospective memory in a shopping center setting.
+
+4. **Game Development**
+   - Created various Unity games for PC and mobile platforms. Currently working on my first Android game, aiming to publish it on the Play Store.
+
+## 🍳 Hobbies and Interests
+
+Apart from coding, I love:
+- 🍲 Cooking up delicious dishes
+- 🗣 Engaging in conversations about society and thought-provoking topics
+- 🔧 Exploring crafting in electronics, woodworking, and mechanics
+
+## 🎯 Goals
+
+My primary goal is to find joy in IT development, collaborate effectively in a team, and create meaningful products. If you share similar interests or want to connect, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/pierre-b-42502b226/).
+
+Thanks for stopping by! 😊
